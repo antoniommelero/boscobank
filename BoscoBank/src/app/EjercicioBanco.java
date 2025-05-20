@@ -1,8 +1,10 @@
-package banco;
+package app;
 
 import java.io.IOException;
 import java.util.InputMismatchException;
 import java.util.Scanner;
+
+import util.Utilidades;
 
 public class EjercicioBanco {
     static Scanner teclado = new Scanner(System.in);
